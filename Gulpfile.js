@@ -8,12 +8,12 @@ requireDir('./gulp-tasks');
 var browserSync = require('browser-sync').create();
 
 /**
- * Clean Task
+ * Clean Task  */
 
 gulp.task('clean', function() {
     del(['dist/assets/styles', 'dist/assets/scripts', 'dist/assets/images']);
 });
- */
+
 
 
 gulp.task('serve', function () {
