@@ -1,6 +1,6 @@
 # Gulp Workflow
 
-This is my attempt (there are few image plugin issues still!) in creating a gulp workflow for frontend development
+A gulp workflow for frontend development
 
 ## Installation 
 	
